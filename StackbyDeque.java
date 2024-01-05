@@ -1,4 +1,7 @@
-package Assignment;
+/*
+Create a class for the Stack data structure and implement the Stack’s operations push, pop and
+peek using an instance of Deque.
+*/
 
 import java.util.ArrayDeque;
 import java.util.Deque;
