@@ -1,5 +1,6 @@
-package Assignment;
-
+/*
+Implement a method reverse(A) that reverses an array A using an instance of Stack.
+*/
 import java.util.Stack;
 
 public class Transfer {
