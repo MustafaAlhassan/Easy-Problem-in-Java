@@ -1,5 +1,7 @@
-package Assignment;
-
+/*
+Implement a method convert(v) that converts the decimal number v to binary using an instance
+of Stack and returns the binary number as a String.
+*/
 import java.util.Stack;
 
 public class decimalToBinary {
