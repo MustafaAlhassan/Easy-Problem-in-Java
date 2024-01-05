@@ -1,3 +1,7 @@
+/*Evaluate an arithmetic expression in postfix notation using an instance of Stack.
+Infix notation: (4 + 2) * (5 – 3)
+Postfix notation: 4 2 + 5 3 – *
+*/
 package Assignment;
 
 import java.util.Stack;
