@@ -1,4 +1,7 @@
-package Assignment;
+/*
+Create a class for the Queue data structure and implement the Queue’s operations enqueue,
+dequeue and first using two instances of Stack.
+*/
 
 import java.util.Stack;
 
