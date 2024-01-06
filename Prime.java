@@ -1,4 +1,4 @@
-/*find prime between to numbers*/
+/*find prime number between to numbers*/
 public static void prime(int a, int b){
     System.out.println("Prime number between " + a + " and " + b);
     for (int i = a; i <= b; i++) {
